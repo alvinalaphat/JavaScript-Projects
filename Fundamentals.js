@@ -6,7 +6,7 @@
   <h1 id="heading">Javascript basics</h1>
 </div>
 
-<button onClick="dontClick()">Don't Click</button>
+<button onClick="dontClick()">Dont Click</button>
 <button onClick="this.innerHTML = 'Thanks!'">Please Click</button>
 <button onClick="changeText(this)">Click if you want</button>
 

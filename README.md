@@ -1,2 +1,2 @@
 # JavaScript
-Fundamentals of Javascript
+Node.js and Vanilla JS

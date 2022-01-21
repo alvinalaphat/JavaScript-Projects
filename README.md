@@ -1,2 +1,3 @@
-# JavaScript
-Node.js and Vanilla JS
+# Node JS
+
+projects built in node js
